@@ -1,0 +1,32 @@
+{
+  "id": "nightmares",
+  "title": "Nightmares",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+"download":"https://github.com/tempestsucks/nightmare/blob/e9334d0424d4a12f6ba9a1962ce65e1de741a9d0/nightmares.zip",
+  "manifest":"https://www.dropbox.com/scl/fi/b00ux94l1uci49lpm2hyo/module.json?dl=1",
+  
+  "authors": [
+    {
+      "name": "Me",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "nightmare-game",
+      "label": "nightmare game",
+      "path": "packs/nightmare-game",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
