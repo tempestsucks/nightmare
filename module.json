@@ -20,7 +20,8 @@
       "name": "nightmare-game",
       "label": "nightmare game",
       "path": "packs/nightmare-game",
-      "type": "Adventure",
+      "type": "Adventure"
+    }
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
